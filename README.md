@@ -54,5 +54,5 @@
 
 ### 🐍 GitHub Snake Contribution
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khizkj/khizkj/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/khizkj/khizkj/output/snake.svg" alt="Snake animation" />
 </p>
