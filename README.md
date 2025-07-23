@@ -4,9 +4,9 @@
 
 ### 🚀 Passionate Software Engineering Student from Pakistan 🇵🇰
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9taW83YjRqOTYyczlnNHpobnlvMHZ0YmlpaHo5ZGx2YnNib2FieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rNtchZTL8RAtO/giphy.gif" alt="Coding Animation" />
-
 *Building the future, one line of code at a time* ✨
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9taW83YjRqOTYyczlnNHpobnlvMHZ0YmlpaHo5ZGx2YnNib2FieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rNtchZTL8RAtO/giphy.gif" alt="Coding Animation" height="200" />
 
 </div>
 
