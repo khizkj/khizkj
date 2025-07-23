@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khizer Jamil</h1>
 <h3 align="center">A passionate Software Engineering student from Pakistan 🇵🇰</h3>
 
-<img align="right" height="150" src="https://media.tenor.com/Vz4zF4i2F0YAAAAd/gear5-luffy.gif" alt="Luffy Gear 5 GIF" />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9taW83YjRqOTYyczlnNHpobnlvMHZ0YmlpaHo5ZGx2YnNib2FieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rNtchZTL8RAtO/giphy.gif" alt="Luffy Gear 5 GIF" />
 
 
 ---
@@ -44,6 +44,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite" />
 </div>
+---
+
+<!-- Social Links -->
+<a href="https://www.linkedin.com/in/khizkj/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="35" />
+</a>
+
+<a href="https://www.instagram.com/YOUR_USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+</a>
+
 
 ---
 
