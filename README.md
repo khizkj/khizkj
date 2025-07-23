@@ -6,11 +6,12 @@
 
 *Building the future, one line of code at a time* ✨
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9taW83YjRqOTYyczlnNHpobnlvMHZ0YmlpaHo5ZGx2YnNib2FieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rNtchZTL8RAtO/giphy.gif" alt="Coding Animation" height="200" />
-
 </div>
 
 ---
+
+<div>
+  <img align="right" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9taW83YjRqOTYyczlnNHpobnlvMHZ0YmlpaHo5ZGx2YnNib2FieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rNtchZTL8RAtO/giphy.gif" alt="Coding Animation" />
 
 ## 💻 Programming Languages
 
@@ -28,11 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
 </div>
-
----
 
 ## 🛠️ Frameworks & Tools
 
@@ -46,6 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+</div>
+
 </div>
 
 ---
