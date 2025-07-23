@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khizer Jamil</h1>
 <h3 align="center">A passionate Software Engineering student from Pakistan 🇵🇰</h3>
 
-<img align="right" height="150" src="https://media.tenor.com/d7Wk0Tz2BNQAAAAC/luffy-one-piece.gif" alt="Luffy Gear 5" />
+<img align="right" height="150" src="https://media.tenor.com/Vz4zF4i2F0YAAAAd/gear5-luffy.gif" alt="Luffy Gear 5 GIF" />
+
 
 ---
 
