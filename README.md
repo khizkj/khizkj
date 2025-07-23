@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khizer Jamil</h1>
-<h3 align="center">A passionate Software Engineering Student from Pakistan</h3>
+<h3 align="center">A passionate Software Engineering student from Pakistan 🇵🇰</h3>
+
+<img align="right" height="150" src="https://media.tenor.com/d7Wk0Tz2BNQAAAAC/luffy-one-piece.gif" alt="Luffy Gear 5" />
 
 ---
 
@@ -52,7 +54,7 @@
 
 ---
 
-### 🐍 GitHub Snake Contribution
+### 🐍 GitHub Snake Contribution Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khizkj/khizkj/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/khizkj/khizkj/output/snake.svg" alt="GitHub Snake animation" />
 </p>
