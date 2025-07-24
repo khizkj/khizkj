@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Khizer Jamil and I'm a Software Engineering student.</h2>
+<h2 align="left">Wassup! My name is Khizer Jamil and I'm a Software Engineering student.</h2>
 
 ###
 
