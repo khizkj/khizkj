@@ -57,7 +57,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khizkj&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=khizkj&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=C9D1D9)](https://github.com/khizkj)
 
 </div>
 
