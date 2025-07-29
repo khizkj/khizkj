@@ -9,7 +9,10 @@
 
 ###
 
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9taW83YjRqOTYyczlnNHpobnlvMHZ0YmlpaHo5ZGx2YnNib2FieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rNtchZTL8RAtO/giphy.gif" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9taW83YjRqOTYyczlnNHpobnlvMHZ0YmlpaHo5ZGx2YnNib2FieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rNtchZTL8RAtO/giphy.gif">
+  <img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9taW83YjRqOTYyczlnNHpobnlvMHZ0YmlpaHo5ZGx2YnNib2FieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rNtchZTL8RAtO/giphy.gif" alt="coding gif" />
+</picture>
 
 ###
 
@@ -55,10 +58,30 @@
 
 ###
 
+<!-- Mobile-Friendly GitHub Streak -->
 <div align="center">
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=khizkj&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=C9D1D9&card_width=400" 
+      media="(max-width: 768px)"
+    />
+    <img 
+      src="https://streak-stats.demolab.com?user=khizkj&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=C9D1D9" 
+      alt="GitHub Streak Stats"
+    />
+  </picture>
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=khizkj&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=C9D1D9)](https://github.com/khizkj)
-
+<!-- Alternative mobile-friendly streak options -->
+<div align="center">
+  
+  <!-- Compact version for mobile -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=khizkj&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=C9D1D9&card_width=400&date_format=M%20j%5B%2C%20Y%5D" 
+    alt="GitHub Streak Stats Mobile" 
+    style="max-width: 100%; height: auto;"
+  />
+  
 </div>
 
 ###
@@ -66,7 +89,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khizkj/khizkj/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/khizkj/khizkj/output/snake.svg" alt="Snake animation" style="max-width: 100%; height: auto;" />
 </div>
 
 ###
