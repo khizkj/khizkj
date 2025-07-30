@@ -72,17 +72,7 @@
   </picture>
 </div>
 
-<!-- Alternative mobile-friendly streak options -->
-<div align="center">
-  
-  <!-- Compact version for mobile -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=khizkj&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=C9D1D9&card_width=400&date_format=M%20j%5B%2C%20Y%5D" 
-    alt="GitHub Streak Stats Mobile" 
-    style="max-width: 100%; height: auto;"
-  />
-  
-</div>
+
 
 ###
 
