@@ -57,16 +57,8 @@
 
 <!-- Mobile-Friendly GitHub Streak -->
 <div align="center">
-  <picture>
-    <source 
-      srcset="https://streak-stats.demolab.com?user=khizkj&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=C9D1D9&card_width=400" 
-      media="(max-width: 768px)"
-    />
-    <img 
-      src="https://streak-stats.demolab.com?user=khizkj&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=C9D1D9" 
-      alt="GitHub Streak Stats"
-    />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=khizkj&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800&token=PAT_1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khizkj&layout=compact&langs_count=6&theme=radical&cache_seconds=1800&token=PAT_1" height="150" alt="languages graph" />
 </div>
 
 ###
