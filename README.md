@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khizkj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khizkj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khizkj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&cache_seconds=1800" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khizkj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -45,9 +45,6 @@
 ###
 
 <div align="left">
-<!--   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=FF5722&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
-  </a> -->
   <a href="https://www.linkedin.com/in/khizer-j-kj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
@@ -71,8 +68,6 @@
     />
   </picture>
 </div>
-
-
 
 ###
 
