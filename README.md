@@ -3,8 +3,24 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khizkj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&cache_seconds=1800" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khizkj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" height="150" alt="languages graph" />
+
+<!-- Profile Stats (safe alternative to GitHub Readme Stats) -->
+<img src="https://streak-stats.demolab.com?user=khizkj&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=C9D1D9" height="150" alt="GitHub Streak" />
+
+<img src="https://komarev.com/ghpvc/?username=khizkj&color=brightgreen&style=flat-square&label=Profile+Views" height="30" alt="profile views" />
+
+<!-- Shields for skills -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 </div>
 
 ###
@@ -57,8 +73,16 @@
 
 <!-- Mobile-Friendly GitHub Streak -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khizkj&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800&token=PAT_1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khizkj&layout=compact&langs_count=6&theme=radical&cache_seconds=1800&token=PAT_1" height="150" alt="languages graph" />
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=khizkj&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=C9D1D9&card_width=400" 
+      media="(max-width: 768px)"
+    />
+    <img 
+      src="https://streak-stats.demolab.com?user=khizkj&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=C9D1D9" 
+      alt="GitHub Streak Stats"
+    />
+  </picture>
 </div>
 
 ###
