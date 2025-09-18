@@ -1,6 +1,10 @@
-<h2 align="left">Wassup! My name is Khizer Jamil and I'm a Software Engineering student.</h2>
+<h1 align="left">Wassup! My name is Khizer Jamil and I'm a Software Engineering student.</h1>
 
 ###
+<div align="left">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khizkj&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117" height="200" alt="Top Languages" />
+</div>
 
 <picture>
   <source media="(max-width: 768px)" srcset="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9taW83YjRqOTYyczlnNHpobnlvMHZ0YmlpaHo5ZGx2YnNib2FieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rNtchZTL8RAtO/giphy.gif">
@@ -37,10 +41,7 @@
 </div>
 
 ###
-<div align="left">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khizkj&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117" height="200" alt="Top Languages" />
-</div>
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/khizer-j-kj/" target="_blank">
