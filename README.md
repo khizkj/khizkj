@@ -37,6 +37,10 @@
 </div>
 
 ###
+<div align="left">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khizkj&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117" height="200" alt="Top Languages" />
+</div>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/khizer-j-kj/" target="_blank">
@@ -51,15 +55,6 @@
 
 <!-- GitHub Streak (only once, mobile friendly) -->
 
-<div align="center">
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khizkj&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117" height="200" alt="Top Languages" />
-
-  <!-- General GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=khizkj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" height="200" alt="GitHub Stats" />
-
-</div>
 
 <div align="center">
   <picture>
